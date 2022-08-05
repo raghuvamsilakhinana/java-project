@@ -11,5 +11,9 @@ class Main {
     // add two numbers
     int sum = first + second;
     System.out.println("The sum is: " + sum);
+
+    // multiply two numbers
+    int prod = first * second;
+    System.out.println("The product is: " + prod);
   }
 }
